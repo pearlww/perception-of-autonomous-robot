@@ -1,7 +1,7 @@
 # perception-of-autonomous-robot
 Exercises and projects of the corresponding DTU course 
 
-## Content
+## Contents
  week number | Content
 ---------|----------
 week1| Image Processing
@@ -16,9 +16,9 @@ week9 | Vidual Odometry
 
 
 ## Finnal project
-Please read my another repository[perception-finnal](https://github.com/pearlww/perception-finnal) for details of the finnal project.
+Please read my another repository [perception-finnal](https://github.com/pearlww/perception-finnal) for details of the finnal project.
 
-## explain
+## Explanation
 There are some unfinished code, and possibly some wrong code. please keep me informed if you found them. Thank you.
 
 
